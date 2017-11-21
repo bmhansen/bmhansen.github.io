@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent;
+}
+body {
+  margin: 0;
+  background: #88b2df;
+}
+.header {
+  background: #88b2df;
+  border : none
+}
+h1 {
+  display: block;
+  font-size: 2em;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: parent;
+}
+h2 {
+  display: block;
+  font-size: 1.2em;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+ul {
+  margin-left: 5%;
+  margin-right: 5%;
+  list-style-type: none;
+  padding-left:0;
+}
