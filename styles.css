@@ -1,32 +1,41 @@
 * {
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
   border: 0;
   outline: 0;
-  font-size: 100%;
+  text-align: center;
+  max-width: 700px;
+  font-weight: 300;
+  font-size: 20px;
+  margin-left: auto;
+  margin-right: auto;
   vertical-align: baseline;
   background: transparent;
 }
 body {
   margin: 0;
-  background: #88b2df;
+  color: #555555;
 }
 .header {
-  background: #88b2df;
   border : none
 }
-h1 {
+hName {
+  color: #333333;
   display: block;
-  font-size: 2em;
+  font-size: 40px;
+  font-weight: 400;
   margin-top: 10px;
   margin-bottom: 10px;
   margin-left: 5%;
   margin-right: 5%;
   background-color: parent;
 }
-h2 {
+hProjects {
+  color: #333333;
   display: block;
-  font-size: 1.2em;
+  font-size: 30pxc;
+  font-weight: 400;
   margin-top: 5px;
   margin-bottom: 5px;
   margin-left: 5%;
