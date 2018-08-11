@@ -1,25 +1,28 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <title>Brad Hansen</title>
-  <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="styles.css">
+  <meta charset="utf-8">
+  <title>New Street Tab</title>
+  <style>
+    html,
+    body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+
+    #street-view {
+      height: 100%;
+    }
+  </style>
 </head>
+
 <body>
-  <div class="header">
-    <hName>Brad Hansen</hName>
-  </div>
-  <div class="section1">
-    <div class="basics">
-      <a href="mailto:brad.m.hansen@gmail.com">Email &#9993;</a>
-      <a href="https://github.com/bmhansen">Github</a>
-      <a href="https://www.linkedin.com/in/brad-hansen-42a55a152/">LinkedIn</a>
-    </div>
-    <div class="projects">
-      <hProjects>Cool things</hProjects>
-      <a href="https://chrome.google.com/webstore/detail/new-street-tab/kacggbfglepmgodfdgeedidegbbgjeck">New Street Tab</a>
-      A chrome extension that changes your newtab to be a random panorama street view
-    </div>
-  </div>
+  <div id="street-view"></div>
+  <script async src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD-4CDW2StKngNORHrR4zj0qZxgPD2JO4s&amp;callback=init"></script>
+  <script type="text/javascript" src="script.js"></script>
+  <script type="text/javascript" src="panoramas.js"></script>
 </body>
+
 </html>
