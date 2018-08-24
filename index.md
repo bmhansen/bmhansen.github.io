@@ -1,7 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
+title: About me
 ---
-hello
+Hi, I'm Brad Hansen and I'm a University of Waikato computer science graduate.
+
+I'm seeking a career as a software engineer as I love exploring new ways of doing things and attacking hard problems.
+
+I have created a reception area android app for booking appointments, a chrome extension that lets you explore the world simply by opening a new tab and even had a go at a VR game among other [projects](/Projects/) you can check out.
