@@ -4,7 +4,7 @@ title: Projects
 permalink: /Projects/
 ---
 
-● [New Street Tab](https://github.com/bmhansen/NewStreetTab) (Chrome Extension: HTML, JavaScript) – A chrome extension that alters the new tab to display a random streetview from around the world. You can see a preview of this [here](/NewStreetTab/). It is on the chrome webstore [here](https://chrome.google.com/webstore/detail/new-street-tab/kacggbfglepmgodfdgeedidegbbgjeck)
+● [New Street Tab](https://github.com/bmhansen/NewStreetTab) (Chrome Extension: HTML, JavaScript) – A chrome extension that alters the new tab to display a random streetview from around the world. You can see a preview of this [here](/newStreetTab.html). It is on the chrome webstore [here](https://chrome.google.com/webstore/detail/new-street-tab/kacggbfglepmgodfdgeedidegbbgjeck)
 
 
 ● Reception Booking system (Java / Android) – 4 person project to create an invoicing/calendar app + server. My role was implementing the Android UI, and invoice generation
