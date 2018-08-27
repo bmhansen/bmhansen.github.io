@@ -10,7 +10,7 @@ permalink: /Projects/
 ● Reception Booking system (Java / Android) – 4 person project to create an invoicing/calendar app + server. My role was implementing the Android UI, and invoice generation
 
 
-● HTC Vive VR Movement Game (C++, UE4, VR) – Experimental virtual reality game designed to find fun ways of moving large distances in the game world: a grappling hook on one hand to pull you towards objects, and a thruster in the other hand
+● HTC Vive VR Movement Game (C++, UE4, VR) – Experimental virtual reality game aimed at finding solutions to the VR limitation of only having a small real world space to manoeuvre in. Solutions include: teleportation, thrusters, grappling hooks, vehicles, conveyor belts
 
 
 ● Regex Engine (Java) – Generates a finite state machine from a regular expression. The state machine is then run on a text file to search for matches
@@ -23,7 +23,7 @@ permalink: /Projects/
 while minimising false negatives
 
 
-● Genetic Approach to the Knapsack Problem (Java) – Genetic algorithm quickly giving near- optimal values
+● Genetic Approach to the Knapsack Problem (Java) – Genetic gradient descent algorithm quickly giving near- optimal values when time restricted
 
 
 ● [LZ78 Compressor and Decompressor](https://github.com/bmhansen/LZ78-Compressor) (Java) – Builds a dictionary of previously seen data sequences and also implements bit packing
